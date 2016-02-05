@@ -1,4 +1,4 @@
-HTTP2 Demo
+Go HTTP2 Demo
 ==========
 
 * Intro
