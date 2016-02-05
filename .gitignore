@@ -1,0 +1,7 @@
+.DS_Store
+*.cert
+*.key
+
+# in production environment the directories below would not be in .gitignore
+vendor/
+pkg
